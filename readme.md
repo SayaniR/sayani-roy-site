@@ -1,0 +1,1 @@
+This is my personal website in the making. I'm learning this as a part of neog camp.
